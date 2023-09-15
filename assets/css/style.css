@@ -51,7 +51,7 @@ button {
 .box-style {
     display: grid;
     margin: 25px;
-    color: #ffffff;
+    color: 000000;
     justify-content: center;
     text-align: center;
     font-weight: bold;
@@ -69,56 +69,56 @@ button {
     justify-content: space-between;
 }
 
-.red-box {
-    background-color: #f50430;
-    width: 65px;
-    height: 65px;
+.cream-box {
+    background-color: #f3deba;
+    width: 55px;
+    height: 55px;
     text-align: center;
     display: flex;
     align-items: flex-end;
     justify-content: center;
 }
 
-.blue-box {
-    background-color: #5700fa;
-    width: 65px;
-    height: 65px;
+.brown-box {
+    background-color: #c8ae7d;
+    width: 55px;
+    height: 55px;
     display: flex;
     align-items: flex-end;
     justify-content: center;
 }
 
 .green-box {
-    background-color: #26f34c;
-    width: 65px;
-    height: 65px;
+    background-color: #abc4aa;
+    width: 55px;
+    height: 55px;
     display: flex;
     align-items: flex-end;
     justify-content: center;
 }
 
-.pink-box {
-    background-color: #f13ea7;
-    width: 65px;
-    height: 65px;
+.olive-box {
+    background-color: #A9998F;
+    width: 55px;
+    height: 55px;
     display: flex;
     align-items: flex-end;
     justify-content: center;
 }
 
-.orange-box {
-    background-color: #f5c43d;
-    width: 65px;
-    height: 65px;
+.lightbrown-box {
+    background-color: #A9907E;
+    width: 55px;
+    height: 55px;
     display: flex;
     align-items: flex-end;
     justify-content: center;
 }
 
-.yellow-box {
-    background-color: #f7eb47;
-    width: 65px;
-    height: 65px;
+.darkbrown-box {
+    background-color: #675D50;
+    width: 55px;
+    height: 55px;
     display: flex;
     align-items: flex-end;
     justify-content: center;
