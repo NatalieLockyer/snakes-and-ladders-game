@@ -11,6 +11,7 @@
 }
 
 body {
+    height: 100vh;
     background-image: url('/assets/images/homepage/background-2.jpg');
     background-size: 200%;
     background-repeat: no-repeat;
@@ -32,6 +33,8 @@ h1 {
 }
 
 /*Main*/
+
+
 .icons {
     display: flex;
     justify-content: flex-end;
@@ -119,4 +122,35 @@ button {
     display: flex;
     align-items: flex-end;
     justify-content: center;
+}
+
+
+
+/* Footer */
+footer {
+    align-content: center;
+    height: 70px;
+    width: 100%;
+}
+
+#social-media {
+    text-align: center;
+    padding: 10px 0 0 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-media li {
+    font-size: 20px;
+    text-align: center;
+}
+
+#social-media a {
+    color: var(--black);
+}
+
+.copyright {
+    background-color: var(--pink);
+    text-align: center;
 }
