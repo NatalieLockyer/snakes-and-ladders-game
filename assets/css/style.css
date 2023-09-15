@@ -31,12 +31,10 @@ h1 {
 }
 
 button {
-    background-color: rgb(46, 173, 131);
+    background-color: rgb(156, 154, 150);
     font-size: 2rem;
     margin: 10px;
 }
-
-
 
 .box-style {
     display: grid;
