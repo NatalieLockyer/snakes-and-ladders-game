@@ -12,6 +12,8 @@
 
 body {
     height: 100vh;
+    display: flex;
+    flex-direction: column;
     background-image: url('/assets/images/homepage/background-2.jpg');
     background-size: 200%;
     background-repeat: no-repeat;
@@ -131,6 +133,7 @@ footer {
     align-content: center;
     height: 70px;
     width: 100%;
+    margin-top: auto;
 }
 
 #social-media {
