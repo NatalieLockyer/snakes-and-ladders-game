@@ -12,6 +12,9 @@
 
 body {
     background-image: url('/assets/images/homepage/background-2.jpg');
+    background-size: 200%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 /*Header*/
