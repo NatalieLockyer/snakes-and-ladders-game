@@ -1,3 +1,14 @@
+/* add google fonts here */
+
+/* colour styles here */
+
+/* Wildcard to overeride default styles by the browser*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body {
     background-color: rgb(13, 196, 95);
 }
