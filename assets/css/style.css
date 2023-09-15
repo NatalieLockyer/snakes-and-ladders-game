@@ -15,6 +15,12 @@ body {
 }
 
 /*Header*/
+
+.snake-title {
+    width: 50px;
+    height: 60px;
+}
+
 h1 {
     font-family: "henny penny";
     text-align: center;
