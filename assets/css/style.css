@@ -23,6 +23,20 @@ h1 {
 }
 
 /*Main*/
+.icons {
+    display: flex;
+    justify-content: flex-end;
+    margin: 5px 5px;
+
+}
+
+button {
+    background-color: rgb(46, 173, 131);
+    font-size: 2rem;
+    margin: 10px;
+}
+
+
 
 .box-style {
     display: grid;
@@ -51,8 +65,8 @@ h1 {
     height: 65px;
     text-align: center;
     display: flex;
-        align-items: flex-end;
-        justify-content: center;
+    align-items: flex-end;
+    justify-content: center;
 }
 
 .blue-box {
@@ -60,8 +74,8 @@ h1 {
     width: 65px;
     height: 65px;
     display: flex;
-        align-items: flex-end;
-        justify-content: center;
+    align-items: flex-end;
+    justify-content: center;
 }
 
 .green-box {
@@ -69,8 +83,8 @@ h1 {
     width: 65px;
     height: 65px;
     display: flex;
-        align-items: flex-end;
-        justify-content: center;
+    align-items: flex-end;
+    justify-content: center;
 }
 
 .pink-box {
@@ -78,8 +92,8 @@ h1 {
     width: 65px;
     height: 65px;
     display: flex;
-        align-items: flex-end;
-        justify-content: center;
+    align-items: flex-end;
+    justify-content: center;
 }
 
 .orange-box {
@@ -96,6 +110,6 @@ h1 {
     width: 65px;
     height: 65px;
     display: flex;
-        align-items: flex-end;
-        justify-content: center;
+    align-items: flex-end;
+    justify-content: center;
 }
