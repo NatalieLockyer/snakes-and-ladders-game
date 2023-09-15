@@ -58,7 +58,7 @@ button {
 }
 
 .red-box {
-    background-color: red;
+    background-color: #f50430;
     width: 65px;
     height: 65px;
     text-align: center;
@@ -68,7 +68,7 @@ button {
 }
 
 .blue-box {
-    background-color: aqua;
+    background-color: #5700fa;
     width: 65px;
     height: 65px;
     display: flex;
@@ -77,7 +77,7 @@ button {
 }
 
 .green-box {
-    background-color: lightgreen;
+    background-color: #26f34c;
     width: 65px;
     height: 65px;
     display: flex;
@@ -86,7 +86,7 @@ button {
 }
 
 .pink-box {
-    background-color: pink;
+    background-color: #f13ea7;
     width: 65px;
     height: 65px;
     display: flex;
@@ -95,7 +95,7 @@ button {
 }
 
 .orange-box {
-    background-color: orange;
+    background-color: #f5c43d;
     width: 65px;
     height: 65px;
     display: flex;
@@ -104,7 +104,7 @@ button {
 }
 
 .yellow-box {
-    background-color: yellow;
+    background-color: #f7eb47;
     width: 65px;
     height: 65px;
     display: flex;
