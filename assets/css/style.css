@@ -14,6 +14,88 @@ body {
     background-color: rgb(13, 196, 95);
 }
 
+/*Header*/
 h1 {
     font-family: "henny penny";
+    text-align: center;
+    font-size: 2.5rem;
+    margin: 20px;
+}
+
+/*Main*/
+
+.box-style {
+    display: grid;
+    margin: 25px;
+    color: #ffffff;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+}
+
+.line-left {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.line-right {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+
+.red-box {
+    background-color: red;
+    width: 65px;
+    height: 65px;
+    text-align: center;
+    display: flex;
+        align-items: flex-end;
+        justify-content: center;
+}
+
+.blue-box {
+    background-color: aqua;
+    width: 65px;
+    height: 65px;
+    display: flex;
+        align-items: flex-end;
+        justify-content: center;
+}
+
+.green-box {
+    background-color: lightgreen;
+    width: 65px;
+    height: 65px;
+    display: flex;
+        align-items: flex-end;
+        justify-content: center;
+}
+
+.pink-box {
+    background-color: pink;
+    width: 65px;
+    height: 65px;
+    display: flex;
+        align-items: flex-end;
+        justify-content: center;
+}
+
+.orange-box {
+    background-color: orange;
+    width: 65px;
+    height: 65px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.yellow-box {
+    background-color: yellow;
+    width: 65px;
+    height: 65px;
+    display: flex;
+        align-items: flex-end;
+        justify-content: center;
 }
